@@ -7,7 +7,7 @@
 --
 -- Prerequisites: Execute permission on sys.dbms_alert.
 --
--- William Robertson 2004, www.williamrobertson.net
+-- William Robertson 2004, www.williamrobertson.net 
  
 -- Package (spec only) for constants used in type body:
 create or replace package job_pkg
